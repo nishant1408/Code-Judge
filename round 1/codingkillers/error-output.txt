@@ -1,0 +1,14 @@
+submissions/codingkillers/problem1.cpp:5:4: warning: missing terminating ' character
+ DON'T PRINT N IF IT IS NOT PRIME
+    ^
+submissions/codingkillers/problem1.cpp:5:4: error: missing terminating ' character
+ DON'T PRINT N IF IT IS NOT PRIME
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+submissions/codingkillers/problem1.cpp: In function 'int main()':
+submissions/codingkillers/problem1.cpp:3:1: error: 'PRINT' was not declared in this scope
+ PRINT N
+ ^~~~~
+submissions/codingkillers/problem1.cpp: At global scope:
+submissions/codingkillers/problem1.cpp:7:1: error: 'END' does not name a type
+ END
+ ^~~

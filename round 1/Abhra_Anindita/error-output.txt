@@ -1,0 +1,7 @@
+submissions/Abhra_Anindita/problem4.c: In function 'int main()':
+submissions/Abhra_Anindita/problem4.c:22:1: error: break statement not within loop or switch
+ break;
+ ^~~~~
+submissions/Abhra_Anindita/problem4.c:27:1: error: continue statement not within a loop
+ continue;
+ ^~~~~~~~

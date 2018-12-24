@@ -1,0 +1,16 @@
+submissions/B_D/problem1.c: In function 'int main()':
+submissions/B_D/problem1.c:4:1: error: 'longint' was not declared in this scope
+ longint n,i,s=0;
+ ^~~~~~~
+submissions/B_D/problem1.c:5:5: error: 'i' was not declared in this scope
+ for(i=2;i<n/2;i++)
+     ^
+submissions/B_D/problem1.c:5:11: error: 'n' was not declared in this scope
+ for(i=2;i<n/2;i++)
+           ^
+submissions/B_D/problem1.c:8:1: error: 's' was not declared in this scope
+ s=s++;
+ ^
+submissions/B_D/problem1.c:10:4: error: 's' was not declared in this scope
+ if(s==1)
+    ^

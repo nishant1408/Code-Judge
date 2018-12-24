@@ -1,0 +1,19 @@
+submissions/RIPPER_CODER/problemtest.c:6:3: warning: integer constant is too large for its type
+ n=5805689712569812103268987;
+   ^~~~~~~~~~~~~~~~~~~~~~~~~
+submissions/RIPPER_CODER/problemtest.c: In function 'int main()':
+submissions/RIPPER_CODER/problemtest.c:5:1: error: 'longint' was not declared in this scope
+ longint n;
+ ^~~~~~~
+submissions/RIPPER_CODER/problemtest.c:6:1: error: 'n' was not declared in this scope
+ n=5805689712569812103268987;
+ ^
+submissions/RIPPER_CODER/problemtest.c:9:5: error: lvalue required as left operand of assignment
+ i%2=0;
+     ^
+submissions/RIPPER_CODER/problemtest.c:10:5: error: lvalue required as left operand of assignment
+ i%i=0;
+     ^
+submissions/RIPPER_CODER/problemtest.c:13:1: error: 'else' without a previous 'if'
+ else
+ ^~~~

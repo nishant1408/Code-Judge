@@ -1,0 +1,17 @@
+submissions/saptak_aparajita/problem1.c:2:10: error: #include expects "FILENAME" or <FILENAME>
+ #include long x=5805689712569812103268987
+          ^~~~
+submissions/saptak_aparajita/problem1.c:3:17: error: '::main' must return 'int'
+ long main(long n)
+                 ^
+submissions/saptak_aparajita/problem1.c:3:6: warning: first argument of 'int main(long int)' should be 'int' [-Wmain]
+ long main(long n)
+      ^~~~
+submissions/saptak_aparajita/problem1.c:3:6: warning: 'int main(long int)' takes only zero or two arguments [-Wmain]
+submissions/saptak_aparajita/problem1.c: In function 'int main(long int)':
+submissions/saptak_aparajita/problem1.c:7:18: error: 'x' was not declared in this scope
+ if(n>-10000 && n<x)
+                  ^
+submissions/saptak_aparajita/problem1.c:21:1: error: expected '}' at end of input
+ }
+ ^

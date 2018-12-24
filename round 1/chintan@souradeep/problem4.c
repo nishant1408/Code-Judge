@@ -1,0 +1,29 @@
+#include<stdio.h>
+int main()
+{
+int i,n,c=0,s,k,r=0;
+scanf("%d",&n);
+while(n!=0)
+{
+c=n%10;
+s=s+c;
+n=n/10;
+}
+if(s>9)
+{
+while(s!=0)
+{
+k=s%10;
+r=r+k;
+s=s/10;
+}
+}
+if(r==1)
+{
+printf("no");
+}
+else
+{
+printf("yes");
+}
+}

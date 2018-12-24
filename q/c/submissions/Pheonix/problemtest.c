@@ -1,0 +1,21 @@
+#include<stdio.h>
+main()
+{
+int y,a,q=0,r=0,n1,n2; 
+scanf("%d",&y);
+scanf("%d",&a);
+n1=a;
+if(a<365)
+{
+q=(a/30)+1;
+r=(a%30)+1;
+printf("%d.2/%.42/%.4d",r,q,y);
+}
+else
+{
+q=(a/365);
+r=(a%365);
+y=y+1;
+printf("%.2d/%.2d/%.4d",r,q,y);
+}
+}

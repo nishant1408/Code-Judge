@@ -1,0 +1,4 @@
+submissions/teamalpha/problem2.cpp: In function 'int main()':
+submissions/teamalpha/problem2.cpp:26:20: error: 'strlen' was not declared in this scope
+        s=strlen(arr);
+                    ^

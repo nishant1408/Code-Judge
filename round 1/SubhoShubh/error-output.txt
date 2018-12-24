@@ -1,0 +1,12 @@
+submissions/SubhoShubh/problem1.c: In function 'int main()':
+submissions/SubhoShubh/problem1.c:8:16: error: expected ';' before ')' token
+ for(i=0,i<a,i++)
+                ^
+submissions/SubhoShubh/problem1.c:14:1: error: expected primary-expression at end of input
+ }
+ ^
+submissions/SubhoShubh/problem1.c:14:1: error: expected ';' at end of input
+submissions/SubhoShubh/problem1.c:14:1: error: expected primary-expression at end of input
+submissions/SubhoShubh/problem1.c:14:1: error: expected ')' at end of input
+submissions/SubhoShubh/problem1.c:14:1: error: expected statement at end of input
+submissions/SubhoShubh/problem1.c:14:1: error: expected '}' at end of input

@@ -1,0 +1,4 @@
+submissions\CODERS\problem1.java:8: error: ';' expected
+long n=Long.parseLong(br.readLine())
+                                    ^
+1 error

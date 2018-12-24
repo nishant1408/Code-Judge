@@ -1,0 +1,7 @@
+submissions/NOOBSTARS/problemtest.c: In function 'int main()':
+submissions/NOOBSTARS/problemtest.c:12:9: error: expected primary-expression before 'char'
+ x[i]=st(char);
+         ^~~~
+submissions/NOOBSTARS/problemtest.c:12:13: error: 'st' cannot be used as a function
+ x[i]=st(char);
+             ^

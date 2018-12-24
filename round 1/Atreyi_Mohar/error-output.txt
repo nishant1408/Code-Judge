@@ -1,0 +1,8 @@
+Exception in thread "main" java.util.InputMismatchException: For input string: "8758967671"
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at problem4.main(problem4.java:9)
+Exception in thread "main" java.util.InputMismatchException: For input string: "9999999999991"
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at problem4.main(problem4.java:9)

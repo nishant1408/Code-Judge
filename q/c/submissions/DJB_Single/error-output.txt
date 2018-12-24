@@ -1,0 +1,10 @@
+submissions\DJB_Single\problem4.java:14: error: illegal start of type
+while()
+^
+submissions\DJB_Single\problem4.java:18: error: ';' expected
+sumdig(sum)
+           ^
+submissions\DJB_Single\problem4.java:20: error: reached end of file while parsing
+}
+ ^
+3 errors

@@ -1,0 +1,8 @@
+Exception in thread "main" java.util.InputMismatchException: For input string: "5805689712569812103268986"
+	at java.util.Scanner.nextLong(Unknown Source)
+	at java.util.Scanner.nextLong(Unknown Source)
+	at problem1.main(problem1.java:8)
+Exception in thread "main" java.util.InputMismatchException: For input string: "984621657246128126784256"
+	at java.util.Scanner.nextLong(Unknown Source)
+	at java.util.Scanner.nextLong(Unknown Source)
+	at problem1.main(problem1.java:8)

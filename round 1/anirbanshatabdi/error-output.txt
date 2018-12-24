@@ -1,0 +1,7 @@
+submissions/anirbanshatabdi/problem1.c: In function 'int main()':
+submissions/anirbanshatabdi/problem1.c:10:5: error: lvalue required as left operand of assignment
+ a%b=0;
+     ^
+submissions/anirbanshatabdi/problem1.c:18:7: error: expected primary-expression before '=' token
+ return=0;
+       ^

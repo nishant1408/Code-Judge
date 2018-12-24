@@ -1,0 +1,4 @@
+submissions/sujitdebadrita/problem1.c: In function 'int main()':
+submissions/sujitdebadrita/problem1.c:15:7: error: 'getch' was not declared in this scope
+ getch();
+       ^

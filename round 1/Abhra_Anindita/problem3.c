@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<stdlib.h>
+main()
+{
+int n,i,j,k;
+scanf("%d",&n);
+if(n>=10)
+exit(0);
+for(i=1;i<=n;i++)
+{
+for(j=1;j<=i;j++)
+{
+printf("%d",j);
+}
+for(k=i-1;k>=1;k--)
+{
+printf("%d",k);
+}
+printf("\n");
+}
+}

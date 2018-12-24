@@ -1,0 +1,4 @@
+  File "submissions/Godbabe/problem1.py", line 1
+    input:13,output:yes
+            ^
+SyntaxError: invalid syntax

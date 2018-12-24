@@ -1,0 +1,7 @@
+submissions/sumitakash/problemtest.c:2:12: error: '::main' must return 'int'
+ float main()
+            ^
+submissions/sumitakash/problemtest.c: In function 'int main()':
+submissions/sumitakash/problemtest.c:10:4: error: invalid operands of types 'float' and 'int' to binary 'operator%'
+ t=n%10;
+   ~^~~

@@ -1,0 +1,10 @@
+submissions/team_sree/problem1.c: In function 'int main()':
+submissions/team_sree/problem1.c:5:1: error: expected ';' before 'scanf'
+ scanf("%d",&a);
+ ^~~~~
+submissions/team_sree/problem1.c:7:1: error: expected initializer before 'printf'
+ printf("yes")
+ ^~~~~~
+submissions/team_sree/problem1.c:7:13: error: expected '}' at end of input
+ printf("yes")
+             ^
