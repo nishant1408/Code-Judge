@@ -90,19 +90,7 @@ $time=9999999;
 		$.post('getques.php',{change, change }, function(data){
 		$('#ques').html(data);
 	});
-	$('#code').val('');
-	$.post('getcode.php',{ }, function(data){
-		$('#code').val(data);
-	});
-		display = document.querySelector('#autosave');
-		while(1)
-		{
-			nextautosave(5,display);
-			autosave(10,display);
 
-		}
-		
-		});
 	</script>
 <Style>
     .button {
